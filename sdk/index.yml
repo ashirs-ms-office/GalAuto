@@ -1,5 +1,5 @@
 ### YamlMime:Sample
-page_type: sample 1234
+page_type: sample
 products: 
 - skype 
 - office-skype-business 
@@ -7,6 +7,6 @@ products:
 languages: 
 - html 
 extensions: 
- contentType: sdks 
+ contentType: sdks
  createdDate: 8/22/2016 2:14:13 PM 
 description: "This sample is made for developers who want to start Skype Web SDK development."
