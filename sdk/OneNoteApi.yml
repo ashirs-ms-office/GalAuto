@@ -1,0 +1,12 @@
+page_type: sample
+products:
+  - office-onenote
+languages:
+  - javascript
+  - typescript
+extensions:
+  contentType: sdks
+  createdDate: '8/30/2016 1:00:59 PM'
+gitUrl: 'https://github.com/OneNoteDev/OneNoteApi'
+title: OneNoteApi
+description: JavaScript library to make calling the OneNote API easier.

@@ -1,0 +1,15 @@
+page_type: sample
+products:
+  - skype
+  - office-skype-business
+  - office-365
+languages:
+  - html
+extensions:
+  contentType: sdks
+  createdDate: '8/22/2016 2:14:13 PM'
+gitUrl: 'https://github.com/OfficeDev/skype-web-sdk-simple-sample-for-SfB-online'
+title: skype-web-sdk-simple-sample-for-SfB-online
+description: >-
+  This document is made for developers who want to start Skype Web SDK
+  development
