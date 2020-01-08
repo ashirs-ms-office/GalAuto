@@ -43,7 +43,7 @@ extensions:
   createdDate: '3/21/2016 9:51:25 PM'
 gitUrl: 'https://github.com/microsoftgraph/MSGraph-SDK-Code-Generator'
 title: MSGraph-SDK-Code-Generator
-description: >-
+description: 
   Source code writers for VIPR utilizing T4 templates. The
   GraphODataTemplateWriter receives an OdcmModel from VIPR and uses it to fill
   in a T4 template located within this repository.
