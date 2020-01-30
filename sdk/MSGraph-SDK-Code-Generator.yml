@@ -11,7 +11,6 @@ products:
 languages:
   - csharp
   - java
-  - objc
   - php
   - python
   - typescript
