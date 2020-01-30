@@ -6,7 +6,6 @@ products:
   - office-onedrive
   - office-onenote
   - office-planner
-  - office-sp
   - ms-graph
 languages:
   - csharp
