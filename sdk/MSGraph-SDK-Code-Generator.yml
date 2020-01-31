@@ -19,7 +19,6 @@ extensions:
     - Microsoft Graph
     - Microsoft identity platform
   services:
-    - Bookings
     - Education
     - Excel
     - Groups
